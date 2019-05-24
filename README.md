@@ -1,2 +1,2 @@
 # sandbox
-Random code utilities and exeriments
+Random code utilities and experiments
